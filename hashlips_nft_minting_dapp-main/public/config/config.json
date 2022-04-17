@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7DbE6aC62Eb66C21890c576E5C3fc02040C830E6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x7dbe6ac62eb66c21890c576e5c3fc02040c830e6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Dom Drip Divas Season 1",
+  "SYMBOL": "DIVA",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-dom-drip-divas-season-1-v4",
+  "SHOW_BACKGROUND": true
+}
